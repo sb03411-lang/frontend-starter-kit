@@ -1,0 +1,23 @@
+{
+  "name": "frontend-starter-kit",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Vue 3 Frontend Starter Kit with Vite, Vue Router, and Pinia",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["vue", "vue3", "vite", "starter-kit", "frontend"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pinia": "^3.0.4",
+    "vue": "^3.5.26",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.3",
+    "vite": "^7.3.0"
+  }
+}
