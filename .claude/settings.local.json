@@ -23,7 +23,12 @@
       "Bash(src/assets/images/domain/dashboard )",
       "Bash(src/assets/fonts/pretendard )",
       "Bash(src/assets/styles)",
-      "Bash(git remote add:*)"
+      "Bash(git remote add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfeat: Vue 3 + TypeScript 프로젝트 초기 설정\n\n- Vue 3.4 + TypeScript + Vite 5 기반 구조\n- Tailwind CSS + Headless UI 스타일링\n- Pinia 상태 관리, Vue Router 라우팅\n- ESLint, Prettier, Husky, Commitlint 설정\n- 공용 컴포넌트 및 레이아웃 구성\n- API 레이어 및 에러 처리 구조\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfix: Pretendard 폰트를 CDN으로 변경\n\n- 로컬 폰트 파일 참조에서 CDN import 방식으로 변경\n- Vercel 빌드 오류 해결\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
     ],
     "deny": [],
     "ask": []
